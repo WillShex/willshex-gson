@@ -23,7 +23,7 @@ public class Convert {
 		if (json != null) {
 			JsonElement element = (new JsonParser()).parse(json);
 
-			if (element != null) {
+			if (element != null && element.isJsonObject()) {
 				object = element.getAsJsonObject();
 			}
 		}

@@ -10,7 +10,7 @@ package com.willshex.gson.json.shared;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import com.spacehopperstudios.utility.JsonUtils;
+import com.willshex.utility.JsonUtils;
 
 public abstract class Jsonable {
 	public JsonObject toJson() {

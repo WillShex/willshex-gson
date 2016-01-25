@@ -3,7 +3,7 @@
 //  spchopr.gson
 //
 //  Created by billy1380 on 27 Aug 2013.
-//  Copyright © 2013 Spacehopper Studios Ltd. All rights reserved.
+//  Copyright © 2013 WillShex Limited. All rights reserved.
 //
 
 package com.willshex.gson.json.shared;

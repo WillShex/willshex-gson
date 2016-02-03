@@ -2,5 +2,5 @@
 <module rename-to='willshex-json'>
   <inherits name='com.google.gwt.user.User'/>
   <inherits name="com.google.gwt.json.JSON" />
-  <source path='json/shared'/>
+  <source path='shared'/>
 </module>

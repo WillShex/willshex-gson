@@ -6,7 +6,7 @@
 //  Copyright © 2013 WillShex Limited. All rights reserved.
 //
 
-package com.willshex.gson.json.shared;
+package com.willshex.gson.shared;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;

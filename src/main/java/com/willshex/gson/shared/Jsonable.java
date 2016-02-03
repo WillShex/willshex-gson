@@ -5,7 +5,7 @@
 //  Created by William Shakour on August 16, 2011.
 //  Copyright © 2011 WillShex Limited. All rights reserved.
 //
-package com.willshex.gson.json.shared;
+package com.willshex.gson.shared;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
